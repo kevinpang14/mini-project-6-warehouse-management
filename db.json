@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "18d7",
+      "name": "Vaseline Sunblock",
+      "description": "sunblock wajah",
+      "price": 20000,
+      "stock": 8
+    },
+    {
+      "id": "3969",
+      "name": "Club",
+      "description": "air mineral",
+      "price": 3000,
+      "stock": 20
+    },
+    {
+      "id": "ea15",
+      "name": "Autan",
+      "description": "lotion",
+      "price": 4000,
+      "stock": 30
+    },
+    {
+      "id": "74516153",
+      "name": "Energen",
+      "description": "minuman coklat",
+      "price": 20000,
+      "stock": 15
+    },
+    {
+      "id": "9265432316",
+      "name": "Aqua",
+      "description": "air mineral",
+      "price": 4000,
+      "stock": 20
+    },
+    {
+      "id": "123513165131",
+      "name": "Coklat",
+      "description": "makanan",
+      "price": 5000,
+      "stock": 20
+    }
+  ],
+  "logs": [
+    {
+      "id": "1",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 10,
+      "note": "Restocked due to high demand",
+      "date": "2024-11-22T10:00:00Z"
+    }
+  ]
+}
